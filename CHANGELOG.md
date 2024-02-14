@@ -1,3 +1,12 @@
+# [0.2.0](https://github.com/adekllny/greetings-ci/compare/v0.1.1...v0.2.0) (2024-02-14)
+
+
+### Features
+
+* upload artifact ([9f0ad5b](https://github.com/adekllny/greetings-ci/commit/9f0ad5b6f48f2ccf4e2c859c550aab69448696ba))
+
+
+
 ## [0.1.1](https://github.com/adekllny/greetings-ci/compare/v0.1.0...v0.1.1) (2024-02-14)
 
 
